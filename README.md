@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning about **creating a distributed microservice mesh like [Istio](https://istio.io/)**
 
-- 💬 Ask me about **creating developer tools, microservice architecture, or developing platform resiliency/scalability solutions**
+- 💬 Ask me about **creating developer tools, microservice architecture, or platform resiliency/scalability solutions**
 
 - ⚡️ Fun fact **Did you know [PowerPoint is Turing complete](https://youtu.be/uNjxe8ShM-8)?**
 
