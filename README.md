@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋🏽, I'm Ian Perkins</h1>
 <h3 align="center">A software engineer 👨🏽‍💻 who's kicking 🦵🏽💥 PaaS and taking names ✍🏽 </h3>
 
-- 🔭 I’m currently working on [a platform for HealtheIntent APIs](https://docs.healtheintent.com/#introduction) used to create healthcare 🏥 workflows around the world 🌎
+- 🔭 I’m currently working at Fountain on a Ruby on Rails monolith used by companies to automate their hiring processes.
 
 - 🌱 I’m currently learning about **creating a distributed microservice mesh like [Istio](https://istio.io/)**
 
