@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋🏽, I'm Ian Perkins</h1>
-<h3 align="center">A software engineer 👨🏽‍💻 who's kicking 🦵🏽💥 PaaS and taking names ✍🏽 </h3>
+<h3 align="center">A software engineer 👨🏽‍💻 who's kicking 🦵🏽💥 SaaS and taking names ✍🏽 </h3>
 
 - 🔭 I’m currently working at Fountain, a high growth SaaS company, building a Ruby on Rails monolith used by companies to automate their hiring processes.
 
