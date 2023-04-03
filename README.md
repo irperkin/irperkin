@@ -1,11 +1,11 @@
 <h1 align="center">Hi everyone 👋🏽, I'm Ian Perkins</h1>
 <h3 align="center">A software engineer 👨🏽‍💻 who's kicking 🦵🏽💥 PaaS and taking names ✍🏽 </h3>
 
-- 🔭 I’m currently working at Fountain on a Ruby on Rails monolith used by companies to automate their hiring processes.
+- 🔭 I’m currently working at Fountain, a high growth SaaS company, building a Ruby on Rails monolith used by companies to automate their hiring processes.
 
 - 🌱 I’m currently learning about **creating a distributed microservice mesh like [Istio](https://istio.io/)**
 
-- 💬 Ask me about **creating developer tools, microservice architecture, or platform resiliency/scalability solutions**
+- 💬 Ask me about **creating developer tools, microservice architecture, or platform resiliency/scalability solutions in Ruby or Lua**
 
 - ⚡️ Fun fact **Did you know [PowerPoint is Turing complete](https://youtu.be/uNjxe8ShM-8)?**
 
